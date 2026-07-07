@@ -175,9 +175,9 @@ Potential enhancements include:
 
 ## Author
 
-**Jiya**
+**Arshhiya Sinha**
 
-First-Year Bioinformatics Student with an interest in Bioinformatics, Data Science, and Machine Learning.
+Third-Year Bioinformatics Student with an interest in Bioinformatics, Data Science, and Machine Learning.
 
 ---
 
